@@ -1,2 +1,0 @@
-# Junior
-Created with CodeSandbox
